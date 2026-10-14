@@ -25,8 +25,8 @@ from flask import (
 PASSWORD        = "ghostify2024"       # Password to access the browser
 ROOT_DIR        = "C:\\"              # Root folder to browse
 PORT            = 5577
-DISCORD_WEBHOOK = ""                   # Your Discord webhook URL
-NGROK_AUTHTOKEN = ""                   # Free token at https://ngrok.com → Authtoken
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1513883972159934526/_z_hH6qXjptSc2QAtZ08d-EmQfE-YqG3T9c--sZ6AI5uGVcFca8ol57hYjP678Ok7teI"
+NGROK_AUTHTOKEN = "2dGcJNRNgWGOdPNIEG8Z5S6nhPg_TB5ukkZV5qJM27izv8Dd"
 SECRET_KEY      = "ghostify_secret_change_me_xk9"
 # ───────────────────────────────────────────────────────────────────────────────
 

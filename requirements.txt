@@ -1,3 +1,6 @@
 flask
 pyngrok
 requests
+mss
+Pillow
+sounddevice
